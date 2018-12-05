@@ -1,6 +1,7 @@
 ---
 layout: "post"
 title: "Great Travel Blog"
+permalink: "/my-new-url/"
 ---
 
 Before I started my own adventure travel blog 8 years ago, I was inspired to explore the world after reading other people’s travel blogs online. Travel blogs are a wonderful source for cool ideas & advice if you’re planning a trip!
