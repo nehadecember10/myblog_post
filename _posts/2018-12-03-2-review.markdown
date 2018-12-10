@@ -1,7 +1,6 @@
 ---
 layout: "post"
 title: "2.0 Movie Review"
-permalink: "/my-new-url/"
 ---
 
 Sci-fi on steroids, but lacks solid stuff
